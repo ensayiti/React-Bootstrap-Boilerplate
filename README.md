@@ -6,7 +6,7 @@
 <a href="https://reactrouter.com/en/main"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></a>
 </p>
 
-This is a `npm create vite@latest` and tailwind based boilerplate for development and production.
+This is a `npm create vite@latest` and Bootstrap based boilerplate for development and production.
 
 Because this package uses vite and of course create-react-app, so make sure you have npm installed on your device.
 
